@@ -1,4 +1,4 @@
-# icmpScanner
+# IcmpScanner
 
 利用Icmp协议扫描局域网内的活动主机。
 
